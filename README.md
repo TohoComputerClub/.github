@@ -5,4 +5,6 @@
 # Links
 X(twittet) : https://x.com/tcca_main?s=11
 Instagram : https://www.instagram.com/toho_computer_club
+CTF Time : https://ctftime.org/team/447539
+
 桐朋中学校・高等学校 : https://www.toho.ed.jp/
